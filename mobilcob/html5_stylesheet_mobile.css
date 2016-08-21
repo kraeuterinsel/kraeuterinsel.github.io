@@ -2,6 +2,7 @@
 /* CSS Document */
 
 body {background-color:#ffffff;
+	background-image: url("../hintergrund.jpg");
 	color:#000000;
 	font-family:Verdana, Geneva, sans-serif;
 	margin:0px;}

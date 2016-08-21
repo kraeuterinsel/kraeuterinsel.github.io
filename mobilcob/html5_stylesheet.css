@@ -2,6 +2,7 @@
 /* CSS Document */
 
 body {background-color:#ffffff;
+	background-image: url("../hintergrund.jpg");
 	color:#000000;
 	font-family:Verdana, Geneva, sans-serif;
 	margin:0px;}
@@ -31,6 +32,7 @@ nav {margin:10px;
 	text-align:center;}
 
 main {background-color:#ffffff;
+	<!--	background-image: url("../hintergrund.jpg");-->
 	color: #000000;
 	float:left;
 	width:75%;}
