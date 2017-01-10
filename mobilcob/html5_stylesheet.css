@@ -60,14 +60,24 @@ footer {background-color:#64e379;
 	text-align:center;
 	width: 100%;}
 
+	#zw {text-decoration:none;
+	    color:#ffffff;
+	    padding:10.5px 11px;
+		margin-bottom:10px;
+	    background-color:#64e379;
+	    display:block;
+		border-radius:10px;
+	}
+
 img {max-width:100%; height:auto; }
 
 ul {margin:0;
     padding:0;
     width:100%;
     list-style-type:none;
-	font-size:large;
-}
+	font-size:large;}
+
+
 
 ul li a {text-decoration:none;
     color:#ffffff;
