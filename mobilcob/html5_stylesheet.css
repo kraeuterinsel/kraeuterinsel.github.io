@@ -87,6 +87,27 @@ img {max-width:100%; height:auto; }
   margin-left: 5px;
 }
 
+ul.b {
+    list-style-type: disc;
+	}
+
+ul.c {
+	  list-style-type: circle;
+	}
+
+ul li.b {
+	font-size: large;
+	text-decoration: underline;
+	font-weight: bold;
+	margin-left:40px;
+	padding-bottom:10px;
+	padding-top:10px;
+}
+
+ul li.c {
+	margin-left:60px;
+}
+
 ul {margin:0;
     padding:0;
     width:100%;
