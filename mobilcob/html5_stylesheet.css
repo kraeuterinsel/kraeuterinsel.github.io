@@ -9,7 +9,7 @@ body {background-color:#ffffff;
 
 body a {color:#0066ff;}
 
-header {background-color:#64e379;
+header {background-color:#2ba56c;
 	color: #ffffff;
 	font-size: xx-large;
 	font-style:italic;
@@ -31,7 +31,7 @@ nav {margin:10px;
 	padding-top:10px;
 	text-align:center;}
 
-main {background-color:#ffffff;
+main {background-color:#ffd696;
 	<!--	background-image: url("../hintergrund.jpg");-->
 	color: #000000;
 	float:left;
@@ -50,7 +50,7 @@ article {border: 1px solid grey;
 	padding-top:10px;
   text-align: justify;}
 
-footer {background-color:#64e379;
+footer {background-color:#2ba56c;
 	clear:left;
 	color:#ffffff;
 	font-size:large;
@@ -65,7 +65,7 @@ footer {background-color:#64e379;
     color:#ffffff;
     padding:10.5px 11px;
 	margin-bottom:10px;
-    background-color:#64e379;
+    background-color:#2ba56c;
     display:block;
 	border-radius:10px;
 }
@@ -82,7 +82,7 @@ img {max-width:100%; height:auto; }
 .bildrechts {
   float:right;
   padding: 3px;
-  border: 0px solid #64e379;
+  border: 0px solid #2f7a14;
   margin-bottom: 5px;
   margin-left: 5px;
 }
@@ -118,7 +118,7 @@ ul li a {text-decoration:none;
     color:#ffffff;
     padding:10.5px 11px;
 	margin-bottom:10px;
-    background-color:#48a262;
+    background-color:#4ab553;
     display:block;
 	border-radius:10px;
 }

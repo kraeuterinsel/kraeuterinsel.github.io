@@ -9,7 +9,7 @@ body {background-color:#ffffff;
 
 body a {color:#0066ff;}
 
-header {background-color:#64e379;
+header {background-color:#2ba56c;
 	color: #ffffff;
 	font-size: x-large;
 	font-style:italic;
@@ -29,7 +29,7 @@ nav {margin:5px;
 	padding-top:1px;
 	text-align:center;}
 
-main {background-color:#ffffff;
+main {background-color:#ffd696;
 	color: #000000;
 	width:100%;}
 
@@ -46,7 +46,7 @@ article {border: 1px solid grey;
 	padding-top:10px;
   text-align: justify;}
 
-footer {background-color:#64e379;
+footer {background-color:#2ba56c;
 	color:#ffffff;
 	font-size:large;
 	font-style:italic;
@@ -60,7 +60,7 @@ footer {background-color:#64e379;
     color:#ffffff;
     padding:10.5px 11px;
 	margin-bottom:10px;
-    background-color:#64e379;
+    background-color:#2ba56c;
     display:block;
 	border-radius:10px;
 }
@@ -117,7 +117,7 @@ ul li a {
     color:white;
     padding:3px 3px;
 	margin-bottom:5px;
-    background-color:#48a262;
+    background-color:#4ab553;
     display:block;
 	border-radius:10px;
 }
